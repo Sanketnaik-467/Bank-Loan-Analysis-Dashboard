@@ -31,11 +31,11 @@ By leveraging my finance background, I was able to understand the business logic
 
 ### Executive & Finance Overview
 
-<img src="https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/bc574d7999022e29ac72e64f4194c93d7497a92a/Power_BI_Dashboard(1).png" alt="Image Description" width="600">
+<img src="https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/bc574d7999022e29ac72e64f4194c93d7497a92a/Power_BI_Dashboard(1).png" alt="Image Description" width="500">
 
 ### Order Status & Time Intelligence
 
-<img src="https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/bc574d7999022e29ac72e64f4194c93d7497a92a/Power_BI_Dashboard(2).png" alt="Image Description" width="600">
+<img src="https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/bc574d7999022e29ac72e64f4194c93d7497a92a/Power_BI_Dashboard(2).png" alt="Image Description" width="500">
 
 
 ## Outcome
