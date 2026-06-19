@@ -30,11 +30,11 @@ By leveraging Power BI, DAX calculations, and data visualization techniques, I d
 
 ## Dashboard Preview
 
-### Executive & Finance Overview
+### Executive Loan Portfolio Overview
 
 <img src="https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/bc574d7999022e29ac72e64f4194c93d7497a92a/Power_BI_Dashboard(1).png" alt="Image Description" width="500">
 
-### Order Status & Time Intelligence
+### Loan Application & Market Insights
 
 <img src="https://github.com/Sanketnaik-467/Bank-Loan-Analysis-Dashboard/blob/bc574d7999022e29ac72e64f4194c93d7497a92a/Power_BI_Dashboard(2).png" alt="Image Description" width="500">
 
